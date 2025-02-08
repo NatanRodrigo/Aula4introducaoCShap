@@ -9,6 +9,7 @@ namespace ExemploTemplateConsole.Entidades
 {
     public class Fluxo
     {
+        // primeira mudança
         public void Executar()
         {
             // declarei uma váriavel do tipo pessoa
